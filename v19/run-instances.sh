@@ -1,0 +1,1 @@
+aws ec2 run-instances --cli-input-yaml file://linux.yaml

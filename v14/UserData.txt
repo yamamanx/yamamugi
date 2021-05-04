@@ -10,4 +10,3 @@ cd /var/www/html
 echo $AZ\<br\> >> index.html
 echo $INSTANCE_ID\<br\> >> index.html
 echo $IP_ADDRESS >> index.html
-wget https://brazil-yamamugi.s3-sa-east-1.amazonaws.com/blog-architecture.png

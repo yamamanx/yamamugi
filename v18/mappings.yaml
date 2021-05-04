@@ -18,7 +18,7 @@ Resources:
       ImageId: !FindInMap [RegionMap, !Ref "AWS::Region", AMI]
       Tags:
         - Key: Name
-          Value: Demo Server
+          Value: Mapping Demo Server
 
 Outputs:
   URL:

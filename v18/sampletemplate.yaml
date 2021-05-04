@@ -15,7 +15,7 @@ Resources:
       ImageId: !Ref AmazonLinuxAMIID
       Tags:
         - Key: Name
-          Value: Demo Server
+          Value: Sample Server
 
 Outputs:
   URL:

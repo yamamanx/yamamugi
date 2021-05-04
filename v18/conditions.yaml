@@ -25,7 +25,7 @@ Resources:
       ImageId: !Ref AmazonLinuxAMIID
       Tags:
         - Key: Name
-          Value: Demo Server
+          Value: Condtions Demo Server
 
   MountPoint:
     Type: "AWS::EC2::VolumeAttachment"
