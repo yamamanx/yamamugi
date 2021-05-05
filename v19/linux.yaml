@@ -1,6 +1,6 @@
 ImageId: 'ami-0d5eff06f840b45e9'
 InstanceType: 't3a.micro'
 SecurityGroupIds:
-        - 'sg-9a2aa198'
+        - 'sg-xxxxxxxxx'
 IamInstanceProfile:
-        Arn: 'arn:aws:iam::057514194535:instance-profile/LinuxRole'
+        Arn: 'arn:aws:iam::123456789012:instance-profile/LinuxRole'
